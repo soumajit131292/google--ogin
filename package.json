@@ -36,7 +36,7 @@
     "react-redux": "^5.0.7",
     "react-redux-toastr": "^7.4.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "react-select": "^2.0.0",
     "react-spinners": "^0.4.7",
     "react-stepzilla": "^4.7.2",
@@ -74,6 +74,6 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.9.4"
+    "node-sass": "^9.0.0"
   }
 }
